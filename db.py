@@ -4,10 +4,10 @@ print("Menghubungkan ke database online....")
 print("(Mohon tunggu hingga 5 detik)")
 
 db = mysql.connector.connect(
-    host="db.jaraya.my.id",
-    user="user_absensi",
-    password="absensi123",
-    database="absen"
+    host="#",
+    user="#",
+    password="#",
+    database="#"
 )
 
 if(db):
