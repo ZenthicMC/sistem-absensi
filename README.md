@@ -12,4 +12,6 @@ Klik tombol code di pojok kanan atas lalu download zip
 
 2. Isi **db.py** dengan detail database mu
 
-3. Jalankan file **main.py**
+3. Import absen.sql ke databasemu 
+
+4. Jalankan file **main.py**
