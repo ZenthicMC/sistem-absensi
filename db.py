@@ -1,6 +1,6 @@
 import mysql.connector
 
-print("Menghubungkan ke database online....")
+print("Menghubungkan ke database....")
 print("(Mohon tunggu hingga 5 detik)")
 
 db = mysql.connector.connect(
